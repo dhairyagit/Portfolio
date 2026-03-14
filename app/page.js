@@ -232,7 +232,7 @@ export default function Home() {
               <p className="text-sm text-gray-600">Professional profile showcasing my education, internships and project experience.</p>
             </a>
 
-            <a href="https://github.com/dhairyagit" className="p-6 border rounded-xl bg-white hover:shadow-lg transition text-center space-y-3">
+            <a href="https://githu  b.com/dhairyagit" className="p-6 border rounded-xl bg-white hover:shadow-lg transition text-center space-y-3">
               <img src="https://cdn.simpleicons.org/github" className="w-8 mx-auto" />
               <div className="font-medium">GitHub</div>
               <p className="text-sm text-gray-600">Repository of my coding projects including machine learning and backend development work.</p>
